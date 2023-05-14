@@ -49,7 +49,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><strong>Pro-PULSE: Learning Progressive Encoders of Latent Semantics in GANs for Photo Upsampling</strong></div>
     <div class="author"><strong>Yang Zhou</strong>, Yangyang Xu, Yong Du, Qiang Wen, Shengfeng He</div>
-    <div class="periodical"><em>IEEE Transactions on Image Processing <strong>(TIP)</strong>, 2023.</em></div>
+    <div class="periodical"><em>IEEE Transactions on Image Processing <strong>(TIP)</strong>, 2022.</em></div>
     <div class="links">
       <a href="https://ieeexplore.ieee.org/abstract/document/9678071" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/youngAt19/Pro-PULSE" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
