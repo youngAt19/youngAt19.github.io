@@ -10,7 +10,7 @@
     <abbr class="badge">IJCV</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">Single-View View Synthesis with Self-Rectified Pseudo-Stereo</a></div>
+    <div class="title">Single-View View Synthesis with Self-Rectified Pseudo-Stereo</div>
     <div class="author"><strong>Yang Zhou</strong>, Hanjie Wu, Wenxi Liu, Zheng Xiong, Jing Qin, Shengfeng He</div>
     <div class="periodical"><em>International Journal of Computer Vision <strong>(IJCV)</strong>, 2023.</em></div>
     <div class="links">
@@ -27,7 +27,7 @@
     <abbr class="badge">TOG</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">Parsing-Conditioned Anime Translation: A New Dataset and Method</a></div>
+    <div class="title">Parsing-Conditioned Anime Translation: A New Dataset and Method</div>
     <div class="author">Zhansheng Li, Yangyang Xu, Nanxuan Zhao, <strong>Yang Zhou</strong>, Yongtuo Liu, Dahua Lin, Shengfeng He</div>
     <div class="periodical"><em>ACM Transactions on Graphics <strong>(TOG)</strong>, 2023.</em></div>
     <div class="links">
@@ -47,7 +47,7 @@
     <abbr class="badge">TIP</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">Pro-PULSE: Learning Progressive Encoders of Latent Semantics in GANs for Photo Upsampling</a></div>
+    <div class="title">Pro-PULSE: Learning Progressive Encoders of Latent Semantics in GANs for Photo Upsampling</div>
     <div class="author"><strong>Yang Zhou</strong>, Yangyang Xu, Yong Du, Qiang Wen, Shengfeng He</div>
     <div class="periodical"><em>IEEE Transactions on Image Processing <strong>(TIP)</strong>, 2023.</em></div>
     <div class="links">
@@ -65,7 +65,7 @@
     <abbr class="badge">CVPR</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">Faithful extreme rescaling via generative prior reciprocated invertible representations</a></div>
+    <div class="title">Faithful extreme rescaling via generative prior reciprocated invertible representations</div>
     <div class="author">Zhixuan Zhong, Liangyu Chai, <strong>Yang Zhou</strong>, Bailin Deng, Jia Pan, Shengfeng He</div>
     <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2022.</em></div>
     <div class="links">
