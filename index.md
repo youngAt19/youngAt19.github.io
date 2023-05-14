@@ -9,7 +9,7 @@ Prior to this, I got my Bachelor's degree from [School of Computer Science and E
 
 ## Research Interests
 
-<strong>Computational Photography, Novel View Synthesis, Image Editing</strong>
+Computational Photography, Novel View Synthesis, Image Editing
 
 {% include_relative _includes/publications.md %}
 
