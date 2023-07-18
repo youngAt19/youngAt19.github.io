@@ -13,9 +13,6 @@
     <div class="title"><strong>Diffuse3D: Wide-Angle 3D Photography via Bilateral Diffusion</strong></div>
     <div class="author">Yutao Jiang, <strong>Yang Zhou</strong>, Yuan Liang, Wenxi Liu, Jianbo Jiao, Yuhui Quan, and Shengfeng He</div>
     <div class="periodical"><em>IEEE International Conference on Computer Vision <strong>(ICCV)</strong>, 2023.</em></div>
-    <div class="links">
-      <a href="https://link.springer.com/article/10.1007/s11263-023-01803-z" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-    </div>
   </div>
 </div>
 </li>
