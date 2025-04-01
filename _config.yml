@@ -21,9 +21,9 @@ github_link: https://github.com/youngAt19
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/youngAt19.jpg
-favicon: ./assets/img/youngAt19_icon.jpg
-favicon_dark: ./assets/img/youngAt19_icon.jpg
+avatar: ./assets/img/youngAt19.png
+favicon: ./assets/img/youngAt19_icon.png
+favicon_dark: ./assets/img/youngAt19_icon.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
